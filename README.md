@@ -103,10 +103,11 @@ Questions (Closed)
 1. Would you prefer submitting a lost item report online?
 2. Would email notifications help you recover items faster?
 
-### Interview 2 Summary
+### Interview 2 Sumamary
 The student reported that many students are unaware of where the campus lost and found is
 located. They have stated that an online reporting system would make it quite easier to report
 these lost items and check for matches without visiting the front desk all the time.
+
 ---
 
 # 4. User Requirements
