@@ -130,7 +130,7 @@ Reason: Creates an efficient process for matching items with tickets
 ---
 
 # 5. Use Case Diagram
-![Use Case Diagram](images/UseDiagram.png)
+![Use Case Diagram](images/UseCase.png)
 
 ---
 
