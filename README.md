@@ -38,11 +38,11 @@ The UMBC Lost & Found System is a centralized web application designed to help s
 
 | Phase | Start Date | End Date | Description |
 |-------|-------------|----------|-------------|
-| System Request | 02/15/2026 | 02/22/2026 | Created a system request with a feasability and cost benefit analysis|
-| Requirements Definition Document and Use Cases | 03/08/2026 | 03/15/2026 | Function/non-functional requirements, interview information, use case analysis |
-| Docker | 03/29/2026 | 04/05/2026 | Creating our project database in docker |
-| Data Modeling and Design | 04/19/2026 | 04/26/2026 | SQL Scripts, single alternative matrix, architecture diagram, complete System architecture diagram |
-| Demo and Presentation | 05/04/2026 | 05/11/2026 | Live demo and presentation |
+| System Request | 02/12/2026 | 02/22/2026 | Created a system request with a feasability and cost benefit analysis|
+| Requirements Definition Document and Use Cases | 03/05/2026 | 03/15/2026 | Function/non-functional requirements, interview information, use case analysis |
+| Docker | 03/26/2026 | 04/05/2026 | Creating our project database in docker |
+| Data Modeling and Design | 04/16/2026 | 04/26/2026 | SQL Scripts, single alternative matrix, architecture diagram, complete System architecture diagram |
+| Demo and Presentation | 05/01/2026 | 05/11/2026 | Live demo and presentation |
 
 ---
 
