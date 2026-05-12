@@ -48,12 +48,11 @@ The UMBC Lost & Found System is a centralized web application designed to help s
 
 ## Stakeholders
 
-- Students – Primary users of the platform
-- Faculty/Staff – Operational and academic users
-- Administrators – System management and oversight
-- IT Support Team – Infrastructure, security, and monitoring
-- University Leadership – Project approval and funding
-- Third-Party Service Providers – External integrations and cloud hosting
+- Students 
+- Faculty/Staff
+- Administrators 
+- IT Support Team 
+- Campus Security 
 
 ---
 
